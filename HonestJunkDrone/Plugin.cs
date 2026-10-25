@@ -9,7 +9,7 @@ namespace HonestJunkDrone
     {
         public const string PluginGUID = "com.lbsluis.honestjunkdrone";
         public const string PluginName = "HonestJunkDrone";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.0.1";
 
         internal static ManualLogSource Log { get; private set; }
 
