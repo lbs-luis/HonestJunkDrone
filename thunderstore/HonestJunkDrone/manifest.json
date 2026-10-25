@@ -1,0 +1,10 @@
+{
+  "name": "HonestJunkDrone",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Makes the Junk Drone always drop its printed item as a regular pickup, even when the Artifact of Command is enabled.",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.2122",
+    "RiskofThunder-HookGenPatcher-1.2.9"
+  ]
+}
